@@ -1,0 +1,19 @@
+{
+  "name": "CovidTracker",
+  "generator": "@radzen/blazor-server",
+  "theme": "dark",
+  "logo": "",
+  "pages": [],
+  "layouts": [
+    "Login",
+    "Main"
+  ],
+  "startPage": null,
+  "https": false,
+  "navigation": [],
+  "dataSources": [],
+  "serverProject": true,
+  "serverVersion": "3",
+  "serverLang": "cs",
+  "wasm": true
+}
